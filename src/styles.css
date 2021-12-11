@@ -1,1 +1,66 @@
 /* You can add global styles to this file, and also import other style files */
+.splashscreen {
+  /* background: #58d68d; */
+  /* background: linear-gradient(to bottom right, #fe2c55, #fe2c55); */
+  /* background: #1db9ee; */
+  /* background: linear-gradient(to bottom right, #58d68d, #1e3d90); */
+  background: linear-gradient(to bottom right, #1db9ee, #921dee);
+
+  height: 100vh;
+}
+
+.bodyclassA {
+  background: #000;
+  height: 100vh;
+}
+
+.bodyclassB {
+  background: #f5f5f5;
+}
+
+.bodyclassC {
+  background: #000;
+  height: 100vh;
+}
+.bodyclassD {
+  background: #000;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+.globalbuttondefault1 {
+  border-radius: 13px;
+  /* background: linear-gradient(to bottom right, #fe2c55, #fe2c55); */
+  background: #1db9ee;
+  color: #000;
+  width: 80%;
+}
+.globalbuttondefault2 {
+  border-radius: 13px;
+  background: linear-gradient(to bottom right, #444, #444);
+  color: #ddd;
+  width: 80%;
+}
+.globalbuttondefault3 {
+  border-radius: 13px;
+  background: linear-gradient(to bottom right, #111, #111);
+  color: #ddd;
+  width: 80%;
+}
+.globalbuttondefault4 {
+  border-radius: 13px;
+  /* background: linear-gradient(to bottom right, #fe2c55, #fe2c55); */
+  background: #9a30eb;
+  color: #000;
+  width: 80%;
+}
+
+mat-form-field {
+  width: 100%;
+}

@@ -1,0 +1,9 @@
+.buttoncurve {
+  border-radius: 8px;
+  padding: 7px;
+  margin-bottom: 20px;
+  color: #fff;
+  font-weight: bold;
+  width: 80%;
+  font-size: 19px;
+}
