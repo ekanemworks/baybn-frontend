@@ -1,0 +1,4 @@
+#Sat Jan 08 15:09:23 WAT 2022
+base.0=/Users/composite/Dev/flutterapps/baybn/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
